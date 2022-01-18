@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OTbqKXvFqtWoYJtH6++nW5TmY94nr+062YUMoQDmMCbn5hxiIqbx9Xwrt9Kvg/sufvX72WQwt6H3KfZ1bMAp7g==",
+  "dgSpecHash": "4tcpnY8WxvqRUf4Gb9NNMhhc/rpjkEizqK9oYfZzqluAAhc67C4fEFtHFtEUxxPIewNDQdbj8msUS7Z3FWri3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
+  "projectFilePath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

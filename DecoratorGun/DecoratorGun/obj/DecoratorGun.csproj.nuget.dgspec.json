@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj": {}
+    "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj": {
+    "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
+        "projectUniqueName": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
         "projectName": "DecoratorGun",
-        "projectPath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
+        "projectPath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\DecoratorGun.csproj",
         "packagesPath": "C:\\Users\\Ron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorGun\\DecoratorGun\\obj\\",
+        "outputPath": "C:\\Users\\Ron\\source\\repos\\Year 2\\Design Patterns\\DecoratorDesignPattern\\DecoratorGun\\DecoratorGun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Apps\\Visual Studio\\SDKs\\NuGetPackages",

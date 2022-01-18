@@ -11,7 +11,7 @@ namespace DecoratorGun
             inheritance, with one key difference - the Decorator DP allows this modification to happen
             during run time, and not only during design time (like inheritance).
 
-            In our example, we have a basic pistol, the pistol can be upgraded using the Decorator DP during runtime,
+            In our example, we have a basic pistol that can be upgraded using the Decorator DP during runtime,
             by using weapon upgrades that adhere to the Decorator DP (lines 30 and 34).
                 **/
 
