@@ -19,6 +19,10 @@ namespace DecoratorGun
 
             Gun pistol = new Pistol();
 
+            Console.WriteLine("You hold a pistol with " + pistol.DamagePerShot + " damage and " + pistol.ShotsPerSecond  + " fire rate.");
+            Console.WriteLine("We are going to upgrade it using the Decorator Design Pattern.");
+
+
             while (true)
             {
                 PrintInstructions();
@@ -41,10 +45,24 @@ namespace DecoratorGun
                     continue;
                 }
 
-                Console.WriteLine("The Pistol's DPS is: " + pistol.DamagePerSecond);
-                
+
+                Console.Write("The Pistol's DPS is: " + pistol.DamagePerSecond);
+
+                #region additional info
+                // Printing additional information 
+                Console.Write(" (");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write(pistol.DamagePerShot);
+                Console.ForegroundColor = ConsoleColor.Gray;
+                Console.Write(" * ");
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.Write(pistol.ShotsPerSecond);
+                Console.ForegroundColor = ConsoleColor.Gray;
+                Console.WriteLine(")");
+                #endregion
+
             }
-            
+
         }
 
         static void PrintInstructions()
